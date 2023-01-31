@@ -4,6 +4,8 @@ Inhomogeneous SIR model implemented in June, 2021 to anticipate the course of th
 
 ## Results
 
+<img src="Susceptibility 2D histogram.png" width="800">
+
 Results are summarized in 'Result summary.pdf'.  The program accurately anticipated key features of the COVID Delta wave in New York City, including:
 
 1. A super-exponential onset, with a deceptively low initial exponential growth constant. This derives from the time it takes for the virus to find sensitive sub-populations, and is roughly analogous to the phenomenon of superdiffusion in biophysics.
