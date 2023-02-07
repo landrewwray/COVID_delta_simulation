@@ -8,7 +8,7 @@ Inhomogeneous SIR model implemented in June, 2021 to anticipate the course of th
 
 *The figure above shows a 2D histogram of intra-population COVID susceptibility versus time over the course of a simulated epidemic.*
 
-Results are summarized in <a href="Result summary.pdf">Result summary.pdf'</a>.  The program accurately anticipated key features of the COVID Delta wave in New York City, including:
+Results are summarized in <a href="Result summary.pdf">Result summary.pdf</a>.  The program accurately anticipated key features of the COVID Delta wave in New York City, including:
 
 1. A super-exponential onset, with a deceptively low initial exponential growth constant. This derives from the time it takes for the virus to find sensitive sub-populations, and is roughly analogous to the phenomenon of superdiffusion in biophysics.
 2. Regional inhomogeneity in the vaccination rate yields a significantly higher total number of cases than would be expected based on the mean vaccination rate. 
